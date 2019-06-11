@@ -32,9 +32,15 @@ al malalt.
 
 
 • A un pacient el poden atendre diferents metges, sent important per cada visita la
-data i hora d’aquesta. I un pacient pot tenir diferents diagnòstics de malaltia, sent 
+data i hora d’aquesta. I un pacient pot tenir diferents diagnòstics de malaltia, sent important la data del diagnòstic. Per una altra banda, un metge pot tractar diferents
+tipus de diagnòstics i al revés.
 
 
 ![](https://github.com/cosminlupas/TresExercicis/blob/master/4.PNG)
+
+
+• Les dades d’interès dels metges seran: codi del metge, nom i cognoms. Les dades
+d’interès dels diagnòstics seran: codi de diagnòstic i descripció.
+
 
 ![](https://github.com/cosminlupas/TresExercicis/blob/master/5.PNG)
