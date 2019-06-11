@@ -144,24 +144,6 @@ seu número de telèfon mòbil.
 
 
 
-![](https://github.com/cosminlupas/TresExercicis/blob/master/22.PNG)
-
-
-
-![](https://github.com/cosminlupas/TresExercicis/blob/master/23.PNG)
-
-
-
-![](https://github.com/cosminlupas/TresExercicis/blob/master/24.PNG)
-
-
-![](https://github.com/cosminlupas/TresExercicis/blob/master/25.PNG)
-
-
-
-![](https://github.com/cosminlupas/TresExercicis/blob/master/26.PNG)
-
-
 
 
 
