@@ -26,9 +26,14 @@ disposa.
 visita seran vàlides per visitar a un únic pacient. La tarja de visita es definirà pel
 número de targeta de visita i l’hora de començament i de final en que es pot visitar
 al malalt.
+
+
 ![](https://github.com/cosminlupas/TresExercicis/blob/master/3.PNG)
+
+
 • A un pacient el poden atendre diferents metges, sent important per cada visita la
 data i hora d’aquesta. I un pacient pot tenir diferents diagnòstics de malaltia, sent 
+
 
 ![](https://github.com/cosminlupas/TresExercicis/blob/master/4.PNG)
 
