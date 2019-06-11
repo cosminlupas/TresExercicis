@@ -106,5 +106,62 @@ mateixa assegurança de vida.
 ![](https://github.com/cosminlupas/TresExercicis/blob/master/16.PNG)
 
 
-![](https://github.com/cosminlupas/TresExercicis/blob/master/17.PNG)
+3 – CANTI-QUI-PUGUI.
+
+L’empresa CANTI-QUI-PUGUI ens ha contractat per dissenyar una BD que mantingui
+informació referent al món musical. Els interessa emmagatzemar informació dels diferents
+grups de música que existeixen. Volen desar el nom del grup, el seu codi identificador, el seu
+estil musical (només un), l’any què es va crear i quina és la formació del grup (és a dir, els
+músics que toquen en el grup). Com és sabut, la formació del grup pot anar variant al llarg del
+temps. Es pot donar el cas que una persona toqui en diferents grups alhora, i que fins i tot
+torni a tocar en un grup al cap de cert temps d’haver marxat. Es vol mantenir l’historia l de la
+formació dels grups musicals i els motius pels quals els músics deixen els grups. Hi ha alguns
+grups que són semblants entre ells i es vol saber quin és el grau de semblança que hi ha. A
+més a més, els interessa distingir entre els grups de música professionals i els grups
+afeccionats. Dels grups de música professionals volen saber qui és el seu manager i l’adreça
+de la pàgina web oficial del grup. Dels grups de música afeccionats volen conèixer l’adreça
+de correu electrònica de contacte. Els grups professionals tenen un contracte amb una
+companyia discogràfica. De la companyia discogràfica els interessa desar el NIF, el nom de
+la companyia i l’adreça de correu electrònica. Es vol tenir constància de les companyies discogràfiques per les quals el grup ha passat al llarg del temps, així com el pressupost que
+la companyia destina al grup. Lògicament, en un moment donat, el grup només té contracte
+amb una única companyia. Cal esmentar que un grup mai tornarà a ser contractat per una
+discogràfica si ja ho havia estat abans. Els grups professionals editen discos. Es vol conèixer
+l’any en què es va enregistrar el disc, la persona que el va produir, i les cançons de què consta
+el disc (considerem que una cançó només apareix en un únic disc). De les cançons volen
+desar el nom, el codi identificador per cada cançó, la duració i els músics que l’han escrit.
+També es vol conèixer quin va ser el primer single del disc (el qual consta d’una única cançó
+del disc). Es pot donar el cas que diferents grups editin un disc amb el mateix nom, ara bé un
+mateix grup mai editarà més d’un disc amb el mateix nom. De totes les persones es vol
+conèixer el seu nom i cognoms, el seu codi identificador, la data de naixement i l’adreça de
+correu electrònica personal.
+Cal destacar que tant els productors com els managers poden haver estat (o són)
+músics, i un músic pot fer de productor del grup o fins i tot de manager. Finalment el productor
+pot ser, alhora, el manager del grup. Addicionalment, dels managers ens interessa saber el
+seu número de telèfon mòbil.
+
+
+![](https://github.com/cosminlupas/TresExercicis/blob/master/21.PNG)
+
+
+
+![](https://github.com/cosminlupas/TresExercicis/blob/master/22.PNG)
+
+
+
+![](https://github.com/cosminlupas/TresExercicis/blob/master/23.PNG)
+
+
+
+![](https://github.com/cosminlupas/TresExercicis/blob/master/24.PNG)
+
+
+![](https://github.com/cosminlupas/TresExercicis/blob/master/25.PNG)
+
+
+
+![](https://github.com/cosminlupas/TresExercicis/blob/master/26.PNG)
+
+
+
+
 
